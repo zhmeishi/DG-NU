@@ -5,7 +5,7 @@ Official PyTorch implementation of [Domain Generalization via Nuclear Norm Regul
 Zhenmei Shi*, Yifei Ming*, Ying Fan*, Frederic Sala, Yingyu Liang.
 
 <p align="center">
-    <img src="./assets/method.png" width="90%" />
+    <img src="./assets/method.png" width="100%" />
 </p>
 
 ## Preparation
@@ -95,7 +95,7 @@ python train_all.py DN --dataset DomainNet --deterministic --checkpoint_freq 500
 ## Main Results
 
 <p align="center">
-    <img src="./assets/table.png" width="80%" />
+    <img src="./assets/table.png" width="90%" />
 </p>
 
 
