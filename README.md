@@ -1,6 +1,6 @@
 # Domain Generalization via Nuclear Norm Regularization
 
-Official PyTorch implementation of [Domain Generalization via Nuclear Norm Regularization](https://openreview.net/pdf?id=mCKNHWWLd1).
+Official PyTorch implementation of [Domain Generalization via Nuclear Norm Regularization](https://arxiv.org/abs/2303.07527).
 
 Zhenmei Shi*, Yifei Ming*, Ying Fan*, Frederic Sala, Yingyu Liang.
 
